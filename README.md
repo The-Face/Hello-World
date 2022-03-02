@@ -1,5 +1,5 @@
 # Hello-World
-my first repository and a bit about me
+My first repository and a bit about me:
 I am a pipefitter/welder by trade.
 I am brand new to GitHub and to programming.
 I am currently learning Python.
